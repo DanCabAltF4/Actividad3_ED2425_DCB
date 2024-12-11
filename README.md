@@ -22,8 +22,7 @@ Sin modificaciones.
 
 ### *Herramientas y lenguajes* 
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/375px-Apache_NetBeans_Logo.svg.png" width="40px" alt="Intellij">](https://netbeans.apache.org/
-download/index.html) &nbsp;&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/375px-Apache_NetBeans_Logo.svg.png" width="40px" alt="Intellij">](https://netbeans.apache.org/download/index.html) &nbsp;&nbsp;&nbsp;
 [<img src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" alt="Eclipse" width="40px">](https://www.eclipse.org/) [<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="JAVA" width="40px">](https://www.java.com/en/)
 <hr>
 
